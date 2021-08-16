@@ -95,7 +95,7 @@ class MyWindow(QtWidgets.QMainWindow):
 				self.tablewidget.verticalHeader().setDefaultSectionSize(30)
 				self.tablewidget.horizontalHeader().setDefaultSectionSize(30)
 				self.tablewidget.horizontalHeader().setSectionResizeMode(2)
-				self.tablewidget.verticallHeader().setSectionResizeMode(2)
+				
 
 
 				self.tablewidget.horizontalHeader().setVisible(False)
