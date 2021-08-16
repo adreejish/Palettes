@@ -1,5 +1,5 @@
 # Palettes
-An afternoon project built using PyQt5. 
+An afternoon project to try out PyQt5. Create and store 4 x 4 colour palettes
 
 ![](palettedemo.gif)
 
